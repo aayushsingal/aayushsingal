@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aayushsingal
 - 👀 I’m interested in Coding & Making YouTube Videos
-- 🌱 I’m currently learning Flutter App Developement
+- 🌱 I’m working professionally as a Flutter Developer
 - 📫 How to reach me ... aa.singal@gmail.com
 
 <!---
